@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Dev
 Hello first change
+=======
+Hello Dev my little baby
+>>>>>>> DevFile little baby
